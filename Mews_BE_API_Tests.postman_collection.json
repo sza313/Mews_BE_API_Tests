@@ -42,7 +42,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"email\":\"Testuser@gmail.com\",\n    \"password\":\"testuser\"\n}"
+							"raw": "{\n    \"email\":\"Testuser2@gmail.com\",\n    \"password\":\"testuser2\"\n}"
 						},
 						"url": {
 							"raw": "{{url}}/api/v1/login/email",
@@ -3070,37 +3070,37 @@
 	],
 	"variable": [
 		{
-			"id": "d9eb3586-dda4-478e-991b-7ed8f600581f",
+			"id": "88095932-5d85-436d-8ba3-f758e275776f",
 			"key": "token",
 			"value": "",
 			"type": "string"
 		},
 		{
-			"id": "3d279534-89d1-42d3-a845-37a765bd4ab7",
+			"id": "9ffab2b7-d244-4fb4-9f54-7e6653ee60c0",
 			"key": "url",
 			"value": "http://192.168.11.50:8080\n",
 			"type": "string"
 		},
 		{
-			"id": "144e4de3-f68f-42a4-94ac-fdf187243a28",
+			"id": "639f5649-26d7-4de8-a6c3-4e5a084fa599",
 			"key": "refreshToken",
 			"value": "",
 			"type": "string"
 		},
 		{
-			"id": "0d847e5c-cced-4c85-b161-dd44031ba230",
+			"id": "bb933bb6-eb3e-45e9-b3ba-3bcfc598f0b3",
 			"key": "tokenPosted",
 			"value": "",
 			"type": "string"
 		},
 		{
-			"id": "29f46695-5a80-44a8-b048-e2a7880a8176",
+			"id": "9e9433db-eecd-4d2e-a798-b96dc15fc088",
 			"key": "emailPosted",
 			"value": "",
 			"type": "string"
 		},
 		{
-			"id": "d1133232-877f-4787-aa68-1aa3d4ae939b",
+			"id": "7a9b65af-b39b-4881-aaab-a50f0f75da25",
 			"key": "current_timestamp",
 			"value": "",
 			"type": "string"
